@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "98a2cfbbc9594a9391aa5c53ad51f9b1"}'></script><!-- End Cloudflare Web Analytics -->
+
 You can use the [editor on GitHub](https://github.com/Sukanthan/sukanthan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
